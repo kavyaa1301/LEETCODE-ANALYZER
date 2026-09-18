@@ -1,0 +1,60 @@
+id,title,category,difficulty,acceptancerate,companies,tags
+1,Two Sum,Array,Easy,49.1,92,Array|Hash Table
+2,Add Two Numbers,Linked List,Medium,40.2,65,Linked List|Recursion
+3,Longest Substring Without Repeating Chars,Sliding Window,Medium,33.8,78,String|Sliding Window|Hash Table
+4,Median of Two Sorted Arrays,Binary Search,Hard,36.7,45,Array|Binary Search|Divide and Conquer
+5,Longest Palindromic Substring,Dynamic Programming,Medium,32.4,55,String|Dynamic Programming
+7,Reverse Integer,Math,Medium,27.8,30,Math
+9,Palindrome Number,Math,Easy,53.6,22,Math
+11,Container With Most Water,Two Pointers,Medium,54.1,60,Array|Two Pointers|Greedy
+13,Roman to Integer,String,Easy,58.3,35,Hash Table|Math|String
+14,Longest Common Prefix,String,Easy,41.5,28,String|Trie
+15,3Sum,Two Pointers,Medium,32.6,70,Array|Two Pointers|Sorting
+17,Letter Combinations of a Phone Number,Backtracking,Medium,57.3,48,Hash Table|String|Backtracking
+19,Remove Nth Node From End of List,Linked List,Medium,41.2,40,Linked List|Two Pointers
+20,Valid Parentheses,Stack,Easy,40.8,72,String|Stack
+21,Merge Two Sorted Lists,Linked List,Easy,62.4,55,Linked List|Recursion
+22,Generate Parentheses,Backtracking,Medium,72.2,50,String|Backtracking
+23,Merge k Sorted Lists,Heap,Hard,49.5,60,Linked List|Divide and Conquer|Heap
+26,Remove Duplicates from Sorted Array,Two Pointers,Easy,53.1,35,Array|Two Pointers
+33,Search in Rotated Sorted Array,Binary Search,Medium,39.4,65,Array|Binary Search
+34,Find First and Last Position in Array,Binary Search,Medium,41.7,42,Array|Binary Search
+36,Valid Sudoku,Hash Table,Medium,57.2,38,Array|Hash Table|Matrix
+39,Combination Sum,Backtracking,Medium,68.5,52,Array|Backtracking
+42,Trapping Rain Water,Two Pointers,Hard,59.2,75,Array|Two Pointers|Stack|Dynamic Programming
+46,Permutations,Backtracking,Medium,75.6,60,Array|Backtracking
+48,Rotate Image,Array,Medium,71.2,48,Array|Math|Matrix
+49,Group Anagrams,Hash Table,Medium,66.8,55,Array|Hash Table|String|Sorting
+51,N-Queens,Backtracking,Hard,63.5,45,Array|Backtracking
+53,Maximum Subarray,Dynamic Programming,Medium,49.6,68,Array|Divide and Conquer|Dynamic Programming
+55,Jump Game,Greedy,Medium,38.4,50,Array|Dynamic Programming|Greedy
+56,Merge Intervals,Sorting,Medium,46.0,62,Array|Sorting
+62,Unique Paths,Dynamic Programming,Medium,63.4,42,Math|Dynamic Programming|Combinatorics
+70,Climbing Stairs,Dynamic Programming,Easy,51.6,45,Math|Dynamic Programming|Memoization
+72,Edit Distance,Dynamic Programming,Medium,55.1,48,String|Dynamic Programming
+76,Minimum Window Substring,Sliding Window,Hard,41.7,62,Hash Table|String|Sliding Window
+78,Subsets,Backtracking,Medium,74.2,50,Array|Backtracking|Bit Manipulation
+79,Word Search,Backtracking,Medium,40.5,55,Array|Backtracking|Matrix
+84,Largest Rectangle in Histogram,Stack,Hard,43.8,52,Array|Stack|Monotonic Stack
+94,Binary Tree Inorder Traversal,Tree,Easy,74.3,35,Stack|Tree|DFS
+98,Validate Binary Search Tree,Tree,Medium,32.6,58,Tree|DFS|BST
+100,Same Tree,Tree,Easy,57.6,28,Tree|DFS|BFS
+102,Binary Tree Level Order Traversal,Tree,Medium,65.1,50,Tree|BFS
+104,Maximum Depth of Binary Tree,Tree,Easy,73.8,38,Tree|DFS|BFS
+121,Best Time to Buy and Sell Stock,Array,Easy,54.4,72,Array|Dynamic Programming
+128,Longest Consecutive Sequence,Hash Table,Medium,47.7,58,Array|Hash Table|Union Find
+139,Word Break,Dynamic Programming,Medium,45.5,65,Array|Hash Table|String|Dynamic Programming
+141,Linked List Cycle,Linked List,Easy,48.5,48,Hash Table|Linked List|Two Pointers
+152,Maximum Product Subarray,Dynamic Programming,Medium,34.6,52,Array|Dynamic Programming
+153,Find Minimum in Rotated Sorted Array,Binary Search,Medium,48.9,45,Array|Binary Search
+155,Min Stack,Stack,Medium,52.8,50,Stack|Design
+160,Intersection of Two Linked Lists,Linked List,Easy,54.9,38,Hash Table|Linked List|Two Pointers
+198,House Robber,Dynamic Programming,Medium,49.8,50,Array|Dynamic Programming
+200,Number of Islands,Graph,Medium,56.7,78,Array|DFS|BFS|Matrix|Union Find
+206,Reverse Linked List,Linked List,Easy,73.6,58,Linked List|Recursion
+207,Course Schedule,Graph,Medium,45.5,55,DFS|BFS|Graph|Topological Sort
+208,Implement Trie (Prefix Tree),Tree,Medium,64.2,50,Hash Table|String|Design|Trie
+215,Kth Largest Element in an Array,Heap,Medium,65.3,65,Array|Divide and Conquer|Sorting|Heap
+226,Invert Binary Tree,Tree,Easy,75.8,38,Tree|DFS|BFS
+230,Kth Smallest Element in a BST,Tree,Medium,70.8,45,Tree|DFS|BST
+234,Palindrome Linked List,Linked List,Easy,49.7,42,Linked List|Two Pointers|Stack|Recursion
